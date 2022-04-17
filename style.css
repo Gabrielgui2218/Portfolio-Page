@@ -64,3 +64,9 @@ nav a:hover{
 footer a p:hover{
     color:#D2691E
 }
+
+.imagens ul li{
+    width: 150px;
+    margin: 10px;    
+    text-align: center;
+}
